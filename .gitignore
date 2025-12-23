@@ -1,0 +1,8 @@
+# SQLite database files
+*.db
+*.sqlite
+*.sqlite3
+
+# OS / Editor
+.DS_Store
+.vscode/
