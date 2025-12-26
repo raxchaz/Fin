@@ -9,3 +9,4 @@ CREATE TABLE ops_cases (
     preventable TEXT,
     notes TEXT
 );
+
